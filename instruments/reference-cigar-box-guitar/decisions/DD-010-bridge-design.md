@@ -328,7 +328,7 @@ This decision means that:
 - bridge angle can be used to establish overall intonation compensation;
 - individual saddle compensation can be introduced later if required;
 - the bridge and saddle can be replaced without modifying the soundboard;
-- the 50 mm bridge width now provides useful information for determining the final spacing of the DD-009 transverse soundboard braces;
+- the 12 mm bridge depth now provides useful information for determining the final spacing of the DD-009 transverse soundboard braces;
 - bridge height must be determined from the actual geometry of the completed neck, soundboard and required action;
 - adequate string downforce must be provided to keep the floating bridge stable;
 - bridge movement must be evaluated during actual playing;
